@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#efedf3">
+  <title>英文筆記｜章節複習</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <a class="brand" href="#" aria-label="英文筆記首頁">N<span>✦</span></a>
+    <div><span class="eyebrow">YOUR ENGLISH NOTEBOOK</span><h1>一章一章，記熟再往下。</h1></div>
+    <button id="about" class="round" aria-label="學習紀錄說明">ⓘ</button>
+  </header>
+  <div class="intro"><span id="counts">讀取章節中…</span><span id="storageLabel">學習紀錄存於此瀏覽器</span></div>
+  <nav aria-label="學習頁面">
+    <button data-mode="skim" class="active">① 快速略讀</button>
+    <button data-mode="cards">② 章節閃卡</button>
+    <button data-mode="quiz">③ 章節小考</button>
+  </nav>
+  <div class="toolbar">
+    <label>選擇章節<select id="unit"><option value="">載入中…</option></select></label>
+    <span id="chapterProgress" class="chapterprogress"></span>
+  </div>
+  <main id="main" aria-live="polite"></main>
+  <div id="toast" role="status"></div>
+  <footer><p>唸出單字與課文例句，依章節略讀、閃卡、小考。</p><p>學習進度保存在目前瀏覽器的本機資料庫中，不會同步到其他裝置。</p></footer>
+  <dialog id="dialog"><button id="closeDialog" class="round close" aria-label="關閉">×</button><div id="dialogBody"></div></dialog>
+  <script src="app.js"></script>
+</body>
+</html>
