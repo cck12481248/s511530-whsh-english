@@ -5105,32 +5105,6 @@
       "priority": true
     },
     {
-      "id": "text1-34",
-      "group": "text1",
-      "word": "Kahoot!",
-      "pos": "n.",
-      "meaning": "Kahoot 線上互動學習平台",
-      "note": "課文提及的線上課程工具。",
-      "example": "I also enjoyed using online tools such as Kahoot! and Quizlet.",
-      "translation": "我也喜歡使用 Kahoot! 和 Quizlet 等線上工具。",
-      "page": 109,
-      "exampleType": "資料原句",
-      "priority": true
-    },
-    {
-      "id": "text1-35",
-      "group": "text1",
-      "word": "Quizlet",
-      "pos": "n.",
-      "meaning": "Quizlet 單字卡學習應用程式",
-      "note": "Words for Recognition 認讀字；可用閃卡學習。",
-      "example": "I also enjoyed using online tools such as Kahoot! and Quizlet.",
-      "translation": "我也喜歡使用 Kahoot! 和 Quizlet 等線上工具。",
-      "page": 109,
-      "exampleType": "資料原句",
-      "priority": true
-    },
-    {
       "id": "text1-36",
       "group": "text1",
       "word": "filter",
@@ -5165,32 +5139,6 @@
       "note": "課文用作形容詞，修飾 moment；可拆為 crash and burn 理解畫面。",
       "example": "I can still recall my first crash-and-burn moment in school.",
       "translation": "我仍記得在學校第一次徹底失敗的時刻。",
-      "page": 102,
-      "exampleType": "資料原句",
-      "priority": true
-    },
-    {
-      "id": "text1-39",
-      "group": "text1",
-      "word": "Seoul",
-      "pos": "n.",
-      "meaning": "首爾",
-      "note": "South Korea 南韓首都。",
-      "example": "My first trip abroad—to Seoul, South Korea—was unforgettable.",
-      "translation": "我第一次出國旅行到南韓首爾，令人難忘。",
-      "page": 102,
-      "exampleType": "資料原句",
-      "priority": true
-    },
-    {
-      "id": "text1-40",
-      "group": "text1",
-      "word": "South Korea",
-      "pos": "n.",
-      "meaning": "南韓",
-      "note": "Korean adj. 韓國的／n. 韓語。",
-      "example": "My first trip abroad—to Seoul, South Korea—was unforgettable.",
-      "translation": "我第一次出國旅行到南韓首爾，令人難忘。",
       "page": 102,
       "exampleType": "資料原句",
       "priority": true
